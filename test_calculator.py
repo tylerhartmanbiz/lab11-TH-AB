@@ -1,3 +1,8 @@
+# https://github.com/tylerhartmanbiz/lab11-TH-AB
+# Partner 1: Tyler Hartman
+# Partner 2: Aiden Bascelli
+
+
 import unittest
 from calculator import *
 
