@@ -1,4 +1,4 @@
-# https://github.com/TheShmill/lab11-TH-AB
+# https://github.com/tylerhartmanbiz/lab11-TH-AB
 # Partner 1: Tyler Hartman
 # Partner 2: Aiden Bascelli
 
